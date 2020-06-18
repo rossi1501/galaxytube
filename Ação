@@ -17,7 +17,7 @@
 
 <item>
 <title>Trailer</title>
-<utube>plugin://plugin.video.youtube/play/?video_id=kaKYsFS0Xmw</utube>
+<trailer>plugin://plugin.video.youtube/play/?video_id=kaKYsFS0Xmw</trailer>
 <thumbnail>https://hydrahouse.com.br/wp-content/uploads/2016/12/filmes_logo-1.jpg</thumbnail>
 <fanart>https://www.osmais.com/wallpapers/201211/grande-onda-wallpaper.jpg</fanart>
 <info>Assista seus trailers de filmes</info>
